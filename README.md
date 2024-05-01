@@ -1,3 +1,6 @@
 # Google.com-link
-HTTPS://google.com
-HTTPS://bing.com
+https://google.com
+
+https://bing.com
+
+https://netflix.com
